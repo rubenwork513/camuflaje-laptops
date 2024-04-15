@@ -1,44 +1,44 @@
 [
   {
     "id": "1",
-    "title": "TETERA ARTESANAL DE BARRO CON TAZAS, FILTRO, Y MINI COPALERO",
-    "logo": "/icons/1.webp",
-    "shortExcerpt": "$599"
+    "title": "Lenovo Thinkpad T480s Ultrabook Laptop 14",
+    "logo": "/icons/1.jpg",
+    "shortExcerpt": 599
   },
   {
     "id": "2",
-    "title": "TAZAS ARTESANALES DE LA SIERRA MIXE DE OAXACA",
-    "logo": "/icons/2.webp",
-    "shortExcerpt": "$499"
+    "title": "Laptop Lenovo IdeaPad 1 14, Intel Celeron N4020",
+    "logo": "/icons/2.jpg",
+    "shortExcerpt": 499
   },
   {
     "id": "3",
-    "title": "BOTELLÓN ARTESANAL DE BARRO CON VASO",
-    "logo": "/icons/3.webp",
-    "shortExcerpt": "$399"
+    "title": "Apple 2020 Laptop MacBook Air: Chip M1 de Apple",
+    "logo": "/icons/3.jpg",
+    "shortExcerpt": 399
   },
   {
     "id": "4",
-    "title": "JARRA ARTESANAL DE BARRO COLECCIÓN HUMO MIXE",
-    "logo": "/icons/4.webp",
-    "shortExcerpt": "$799"
+    "title": "Aocwei Laptop 14 Win11 portátil 6GB DDR4 256GB SSD Intel N4020 ",
+    "logo": "/icons/4.jpg",
+    "shortExcerpt": 799
   },
   {
     "id": "5",
-    "title": "JUEGO 2 ENSALADERAS VIENTO MIXE",
-    "logo": "/icons/5.webp",
-    "shortExcerpt": "$1799"
+    "title": "HP Victus 15 Laptop para juegos, FHD 144Hz de 15.6, AMD Ryzen 5",
+    "logo": "/icons/5.jpg",
+    "shortExcerpt": 1799
   },
   {
     "id": "6",
-    "title": "VAJILLA HUMO MIXE - BARRO ARTESANAL AHUMADO",
-    "logo": "/icons/6.webp",
-    "shortExcerpt": "$1299"
+    "title": "Dell Precision 5540 15.6 UHD Pantalla táctil Intel i7-9850H",
+    "logo": "/icons/6.jpg",
+    "shortExcerpt": 1299
   },
   {
     "id": "7",
-    "title": "JUEGO 3 OLLAS ARTESANALES CON TAPA",
-    "logo": "/icons/7.webp",
-    "shortExcerpt": "$399"
+    "title": "HUAWEI MateBook D 15 2023 Procesador 11.5th Intel Core i5, 512GB SSD, Windows 11,",
+    "logo": "/icons/7.jpg",
+    "shortExcerpt": 399
   }
 ]
