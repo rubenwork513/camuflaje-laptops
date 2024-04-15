@@ -1,0 +1,14 @@
+---
+import clsx from "clsx"
+
+const { class: className } = Astro.props
+---
+
+<div
+  class={clsx(
+    "block relative transition-all duration-300 shadow-xlhover:scale-105 cursor-pointer",
+    className
+  )}
+>
+  <slot />
+</div>

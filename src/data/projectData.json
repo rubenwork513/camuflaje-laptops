@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "TETERA ARTESANAL DE BARRO CON TAZAS, FILTRO, Y MINI COPALERO",
+    "logo": "/icons/1.webp",
+    "shortExcerpt": "$599"
+  },
+  {
+    "id": "2",
+    "title": "TAZAS ARTESANALES DE LA SIERRA MIXE DE OAXACA",
+    "logo": "/icons/2.webp",
+    "shortExcerpt": "$499"
+  },
+  {
+    "id": "3",
+    "title": "BOTELLÓN ARTESANAL DE BARRO CON VASO",
+    "logo": "/icons/3.webp",
+    "shortExcerpt": "$399"
+  },
+  {
+    "id": "4",
+    "title": "JARRA ARTESANAL DE BARRO COLECCIÓN HUMO MIXE",
+    "logo": "/icons/4.webp",
+    "shortExcerpt": "$799"
+  },
+  {
+    "id": "5",
+    "title": "JUEGO 2 ENSALADERAS VIENTO MIXE",
+    "logo": "/icons/5.webp",
+    "shortExcerpt": "$1799"
+  },
+  {
+    "id": "6",
+    "title": "VAJILLA HUMO MIXE - BARRO ARTESANAL AHUMADO",
+    "logo": "/icons/6.webp",
+    "shortExcerpt": "$1299"
+  },
+  {
+    "id": "7",
+    "title": "JUEGO 3 OLLAS ARTESANALES CON TAPA",
+    "logo": "/icons/7.webp",
+    "shortExcerpt": "$399"
+  }
+]

@@ -1,0 +1,32 @@
+---
+import SectionContainer from "@/components/SectionContainer.astro"
+import SEO from "@/components/seo.astro"
+
+const { title, description } = Astro.props
+---
+
+<!DOCTYPE html>
+<html lang='es'>
+  <head>
+    <SEO title={title} description={description} />
+  </head>
+  <body>
+    <main class='bg-[#fdecda] pb-16'>
+      <slot />
+    </main>
+
+    <SectionContainer>
+      <footer class='py-14 bg-[#5d2417]'>
+        <div class='max-w-4xl mx-auto px-6 grid gap-2'>
+          <h2 class='font-bold text-3xl text-white-50'>
+            Amor y espiritu en ceramica
+          </h2>
+          <p class='text-neutral-400 font-medium text-2xl leading-10'>
+            El regalo perfecto está aquí. Apoyando a los artesanos talentosos.
+            Pon algo de color de rojo a tu hogar.
+          </p>
+        </div>
+      </footer>
+    </SectionContainer>
+  </body>
+</html>
